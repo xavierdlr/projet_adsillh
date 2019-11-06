@@ -25,8 +25,7 @@ Xavier :
 - Missing runners (https://github.com/lutris/lutris/issues/2385) (PR par quelqu’un d’autre)
 - Epic Games Store not launching (https://github.com/lutris/lutris/issues/2371) (manque des infos)
 - Add “Yuzu”(https://github.com/lutris/lutris/issues/2356) (en attente de réponse/PR)
-- Lutris is downloading corrupt tar.bz2 files (https://github.com/lutris/lutris/issues/2415) Need install Zorin OS
-
+- Lutris is downloading corrupt tar.bz2 files (https://github.com/lutris/lutris/issues/2415) (recherche)
 Yann :
 - Wiki update (https://github.com/lutris/lutris/issues/2420) (En cours)
 - Bad parser (https://github.com/lutris/lutris/issues/2380) (En cours)
