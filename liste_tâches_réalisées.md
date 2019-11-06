@@ -32,6 +32,7 @@ Yann :
 Gwendal :
 - Missing runners (https://github.com/lutris/lutris/issues/2385) (PR par quelqu’un d’autre)
 - New games displayed 2 times (https://github.com/lutris/lutris/issues/2351) (pas reproductible => par corrigeable)
+- Added a button to remove unused wine version (https://github.com/lutris/lutris/issues/2405) (en cours)
 
 
 
