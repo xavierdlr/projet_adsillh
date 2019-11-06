@@ -18,6 +18,7 @@ Tony :
 - Can't use feral gamemode button on lutris using opensuse tumbleweed (https://github.com/lutris/lutris/issues/2418) (proposition de correction/PR)
 - Add “Yuzu”(https://github.com/lutris/lutris/issues/2356) (en attente de réponse/PR)
 - Small bug about FPS limit (https://github.com/lutris/lutris/issues/2427) (proposition de correction)
+- Mupen64Plus Runner add video plugin options (https://github.com/lutris/lutris/issues/2389) (recherche)
 
 
 Xavier :
