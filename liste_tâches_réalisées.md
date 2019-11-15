@@ -4,7 +4,7 @@ Nicolas :
 - Missing runners (https://github.com/lutris/lutris/issues/2385) (PR par quelqu’un d’autre)
 - Default panel bug (https://github.com/lutris/lutris/issues/2367) (PR par quelqu’un d’autre)
 - Wine / Battle.net zombie processus (https://github.com/lutris/lutris/issues/2417) (recherche)
-- Lutris switches right panel to a stopped game (https://github.com/lutris/lutris/issues/2144) (reproduction ok => partie du code problématique trouvée => Demande d'utilité du code)
+- Lutris switches right panel to a stopped game (https://github.com/lutris/lutris/issues/2144) (reproduction ok => partie du code problématique trouvée => Demande d'utilité du code => Correction faite par Strycore (createur de lutris))
 
 
 Tony :
