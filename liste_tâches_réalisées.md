@@ -17,7 +17,7 @@ Tony :
 - Can't install CEMU (https://github.com/lutris/lutris/issues/2421) (close, manque d’info)
 - Can't use feral gamemode button on lutris using opensuse tumbleweed (https://github.com/lutris/lutris/issues/2418) (proposition de correction/PR)
 - Add “Yuzu”(https://github.com/lutris/lutris/issues/2356) (en attente de réponse/PR)
-- Small bug about FPS limit (https://github.com/lutris/lutris/issues/2427) (proposition de correction)
+- Small bug about FPS limit (https://github.com/lutris/lutris/issues/2427) (proposition de correction/close)
 - runner: dosbox does not launch, missing dependency (https://github.com/lutris/lutris/issues/2457) (recherche)
 
 Xavier :
