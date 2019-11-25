@@ -19,7 +19,7 @@ Tony :
 - Add “Yuzu”(https://github.com/lutris/lutris/issues/2356) (en attente de réponse/PR)
 - Small bug about FPS limit (https://github.com/lutris/lutris/issues/2427) (proposition de correction)
 - Mupen64Plus Runner add video plugin options (https://github.com/lutris/lutris/issues/2389) (recherche)
-
+- runner: dosbox does not launch, missing dependency (https://github.com/lutris/lutris/issues/2457) (recherche)
 
 Xavier :
 - Missing runners (https://github.com/lutris/lutris/issues/2385) (PR par quelqu’un d’autre)
