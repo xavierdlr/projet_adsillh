@@ -19,6 +19,7 @@ Tony :
 - Add “Yuzu”(https://github.com/lutris/lutris/issues/2356) (en attente de réponse/PR)
 - Small bug about FPS limit (https://github.com/lutris/lutris/issues/2427) (proposition de correction/close)
 - runner: dosbox does not launch, missing dependency (https://github.com/lutris/lutris/issues/2457) (recherche)
+- Add a favorite games filter #1075 (https://github.com/lutris/lutris/issues/1075) (recherche)
 
 Xavier :
 - Missing runners (https://github.com/lutris/lutris/issues/2385) (PR par quelqu’un d’autre)
