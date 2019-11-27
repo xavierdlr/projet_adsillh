@@ -20,7 +20,7 @@ Tony :
 - Small bug about FPS limit (https://github.com/lutris/lutris/issues/2427) (proposition de correction/close)
 - runner: dosbox does not launch, missing dependency (https://github.com/lutris/lutris/issues/2457) (recherche/attente de réponse)
 - Add a favorite games filter #1075 (https://github.com/lutris/lutris/issues/1075) (test du code)
-- Add a loading circle animation when searching installers on Lutris.net (https://github.com/lutris/lutris/issues/2442) (peut-être)
+- Add a loading circle animation when searching installers on Lutris.net (https://github.com/lutris/lutris/issues/2442) (à voir)
 
 Xavier :
 - Missing runners (https://github.com/lutris/lutris/issues/2385) (PR par quelqu’un d’autre)
