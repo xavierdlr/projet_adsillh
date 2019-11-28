@@ -17,9 +17,9 @@ ISSUES :
 - Epic Games Store not launching (https://github.com/lutris/lutris/issues/2371) (tjrs open/recherche)
 - GTK error (https://github.com/lutris/lutris/issues/2358) (PR faite et acceptée)
 - Can't install CEMU (https://github.com/lutris/lutris/issues/2421) (close, manque d’info)
-- Can't use feral gamemode button on lutris using opensuse tumbleweed (https://github.com/lutris/lutris/issues/2418) (proposition de correction/PR)
+- Can't use feral gamemode button on lutris using opensuse tumbleweed (https://github.com/lutris/lutris/issues/2418) (proposition de correction/PR close aucune réponse)
 - Add “Yuzu”(https://github.com/lutris/lutris/issues/2356) (en attente de réponse/PR)
-- Small bug about FPS limit (https://github.com/lutris/lutris/issues/2427) (proposition de correction/close)
+- Small bug about FPS limit (https://github.com/lutris/lutris/issues/2427) (proposition de correction/PR close aucune réponse)
 - runner: dosbox does not launch, missing dependency (https://github.com/lutris/lutris/issues/2457) (recherche/attente de réponse)
 - Add a favorite games filter #1075 (https://github.com/lutris/lutris/issues/1075) (test du code)
 - Add a loading circle animation when searching installers on Lutris.net (https://github.com/lutris/lutris/issues/2442) (à voir)
@@ -27,7 +27,7 @@ ISSUES :
 PR :
 - Fix Issues #2358 and Issues#2376 (https://github.com/lutris/lutris/pull/2393) (Merged)
 - Gamemode and FPS corrective and add Yuzu emulator (https://github.com/lutris/lutris/pull/2489) (close car aucune réponse et certains éléments ont été PR par d'autres personnes)
--  Add Yuzu emulator (https://github.com/lutris/lutris/pull/2495) (en attente)
+- Add Yuzu emulator (https://github.com/lutris/lutris/pull/2495) (en attente)
 
 Xavier :
 - Missing runners (https://github.com/lutris/lutris/issues/2385) (PR par quelqu’un d’autre)
