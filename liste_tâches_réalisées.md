@@ -8,6 +8,7 @@ Nicolas :
 
 
 Tony :
+ISSUES :
 - Missing runners (https://github.com/lutris/lutris/issues/2385) (PR par quelqu’un d’autre)
 - Default panel bug (https://github.com/lutris/lutris/issues/2367) (PR par quelqu’un d’autre)
 - Lutris games not launching (https://github.com/lutris/lutris/issues/2386) (recherche/fermé avant correction)
@@ -21,6 +22,11 @@ Tony :
 - runner: dosbox does not launch, missing dependency (https://github.com/lutris/lutris/issues/2457) (recherche/attente de réponse)
 - Add a favorite games filter #1075 (https://github.com/lutris/lutris/issues/1075) (test du code)
 - Add a loading circle animation when searching installers on Lutris.net (https://github.com/lutris/lutris/issues/2442) (à voir)
+
+PR :
+- Fix Issues #2358 and Issues#2376 (https://github.com/lutris/lutris/pull/2393) (Merged)
+- Gamemode and FPS corrective and add Yuzu emulator (https://github.com/lutris/lutris/pull/2489) (close car aucune réponse et certains éléments ont été PR par d'autres personnes)
+
 
 Xavier :
 - Missing runners (https://github.com/lutris/lutris/issues/2385) (PR par quelqu’un d’autre)
