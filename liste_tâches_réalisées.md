@@ -8,6 +8,7 @@ Nicolas :
 
 
 Tony :
+ 
 ISSUES :
 - Missing runners (https://github.com/lutris/lutris/issues/2385) (PR par quelqu’un d’autre)
 - Default panel bug (https://github.com/lutris/lutris/issues/2367) (PR par quelqu’un d’autre)
