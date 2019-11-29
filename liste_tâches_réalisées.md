@@ -28,7 +28,8 @@ PR :
 - Fix Issues #2358 and Issues#2376 (https://github.com/lutris/lutris/pull/2393) (Merged)
 - Gamemode and FPS corrective and add Yuzu emulator (https://github.com/lutris/lutris/pull/2489) (close car aucune réponse et certains éléments ont été PR par d'autres personnes)
 - Add Yuzu emulator (https://github.com/lutris/lutris/pull/2497) (en attente)
--  Add a loading circle animation when searching (https://github.com/lutris/lutris/pull/2498) (en attente)
+- Add a loading circle animation when searching (https://github.com/lutris/lutris/pull/2498) (en attente)
+- Add favorite games list (https://github.com/lutris/lutris/pull/2500) (en attente)
 
 Xavier :
 - Missing runners (https://github.com/lutris/lutris/issues/2385) (PR par quelqu’un d’autre)
