@@ -24,6 +24,7 @@ ISSUES :
 - Add a favorite games filter (https://github.com/lutris/lutris/issues/1075) (PR)
 - Add a loading circle animation when searching installers on Lutris.net (https://github.com/lutris/lutris/issues/2442) (PR)
 - Add option to turn columns on/off in List View (https://github.com/lutris/lutris/issues/2581) (recherche)
+
 PR :
 - Fix Issues #2358 and Issues#2376 (https://github.com/lutris/lutris/pull/2393) (Merged)
 - Gamemode and FPS corrective and add Yuzu emulator (https://github.com/lutris/lutris/pull/2489) (close car aucune réponse et certains éléments ont été PR par d'autres personnes)
