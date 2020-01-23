@@ -8,6 +8,10 @@ Nicolas :
 
 
 Tony :
+
+NEW ISSUES :
+
+ - Problem with Yuzu installation (https://github.com/lutris/lutris/issues/2612)
  
 ISSUES :
 - Missing runners (https://github.com/lutris/lutris/issues/2385) (PR par quelqu’un d’autre)
