@@ -37,6 +37,14 @@ PR :
 - Add favorite games list (https://github.com/lutris/lutris/pull/2500) (en attente)
 
 Xavier :
+
+
+NEW ISSUES :
+
+ - Problem with Yuzu installation (https://github.com/lutris/lutris/issues/2612)
+ 
+ISSUES : 
+
 - Missing runners (https://github.com/lutris/lutris/issues/2385) (PR par quelqu’un d’autre)
 - Epic Games Store not launching (https://github.com/lutris/lutris/issues/2371) (manque des infos)
 - Add “Yuzu”(https://github.com/lutris/lutris/issues/2356) (en attente de réponse/PR)
