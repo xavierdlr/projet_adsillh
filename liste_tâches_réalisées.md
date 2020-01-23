@@ -27,7 +27,7 @@ ISSUES :
 - runner: dosbox does not launch, missing dependency (https://github.com/lutris/lutris/issues/2457) (recherche/attente de réponse)
 - Add a favorite games filter (https://github.com/lutris/lutris/issues/1075) (PR)
 - Add a loading circle animation when searching installers on Lutris.net (https://github.com/lutris/lutris/issues/2442) (PR)
-- Add option to turn columns on/off in List View (https://github.com/lutris/lutris/issues/2581) (recherche)
+- Add option to turn columns on/off in List View (https://github.com/lutris/lutris/issues/2581) (élément problématique trouvé)
 
 PR :
 - Fix Issues #2358 and Issues#2376 (https://github.com/lutris/lutris/pull/2393) (Merged)
