@@ -24,7 +24,7 @@ ISSUES :
 - Can't use feral gamemode button on lutris using opensuse tumbleweed (https://github.com/lutris/lutris/issues/2418) (proposition de correction/PR close aucune réponse)
 - Add “Yuzu”(https://github.com/lutris/lutris/issues/2356) (en attente de réponse/PR)
 - Small bug about FPS limit (https://github.com/lutris/lutris/issues/2427) (proposition de correction/PR close aucune réponse)
-- runner: dosbox does not launch, missing dependency (https://github.com/lutris/lutris/issues/2457) (recherche/attente de réponse)
+- runner: dosbox does not launch, missing dependency (https://github.com/lutris/lutris/issues/2457) (recherche/attente de réponse/Problème non Résolu/Close)
 - Add a favorite games filter (https://github.com/lutris/lutris/issues/1075) (PR)
 - Add a loading circle animation when searching installers on Lutris.net (https://github.com/lutris/lutris/issues/2442) (PR)
 - Add option to turn columns on/off in List View (https://github.com/lutris/lutris/issues/2581) (élément problématique trouvé)
