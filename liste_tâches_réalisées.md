@@ -5,6 +5,9 @@ Nicolas :
 - Default panel bug (https://github.com/lutris/lutris/issues/2367) (PR par quelqu’un d’autre)
 - Wine / Battle.net zombie processus (https://github.com/lutris/lutris/issues/2417) (recherche)
 - Lutris switches right panel to a stopped game (https://github.com/lutris/lutris/issues/2144) (reproduction ok => partie du code problématique trouvée => Demande d'utilité du code => Correction faite par Strycore (createur de lutris))
+- Lutris doesn’t detect Steam external librairy (https://github.com/lutris/lutris/issues/2490) (abandon)
+- Script $steam does not work (https://github.com/lutris/lutris/issues/2281) (abandon)
+- Mupen64Plus Runner plugins (https://github.com/lutris/lutris/issues/2389)
 
 
 Tony :
